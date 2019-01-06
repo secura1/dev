@@ -1,4 +1,4 @@
-# dev
+#dev #developer #developers #software #development
 Information about .dev
 
  The Dev-Domains are open domains: anyone can register Dev-Domains. The Dev-Domain is meant for developers, but of course it also stands for any kind of "developments".
