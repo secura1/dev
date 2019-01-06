@@ -1,2 +1,2 @@
 # dev
-Information about .dv
+Information about .dev
