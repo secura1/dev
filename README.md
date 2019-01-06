@@ -1,5 +1,6 @@
 # dev
 Information about .dev
+
  The Dev-Domains are open domains: anyone can register Dev-Domains. The Dev-Domain is meant for developers, but of course it also stands for any kind of "developments".
 
 The ICANN process of introducing new Top Level Domains continues. The registry of the Dev-Domains has set the 19th of January 2019 as the start of the Sunrise Period. Interested parties for the Sunrise Period must register with the Trademark Clearinghouse .
