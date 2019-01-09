@@ -2,7 +2,7 @@
 
 <a href=http//www.domanregistry.de><IMG SRC=http://www.domainregistry.de/dev-domains.png></a>
 
- The Dev-Domains are open domains: anyone can register Dev-Domains. The Dev-Domain is meant for developers, but of course it also stands for any kind of "developments".
+ <b>The Dev-Domains are open domains: anyone can register Dev-Domains. The Dev-Domain is meant for developers, but of course it also stands for any kind of "developments".</b>
 
 The ICANN process of introducing new Top Level Domains continues. The registry of the Dev-Domains has set the 16th of January 2019 as the start of the Sunrise Period. Interested parties for the Sunrise Period must register with the Trademark Clearinghouse .
 
@@ -10,7 +10,7 @@ Developments have now their own more secure home on the web: the Dev-Domain, the
 
 Google writes about Dev-Domains:
 
-".dev is the perfect place for all developers to come together."
+<i>".dev is the perfect place for all developers to come together."</i>
 
 Key points about Dev-Domain:
 The Dev-Domain is an open TLD with a focus on improved security. The entire .Dev TLD has been added to the HSTS preload list, which means registrants will have to provision and set up SSL certificates in order for their content to be loaded in modern browsers
