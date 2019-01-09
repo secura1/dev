@@ -1,3 +1,5 @@
+<H2>Dev-Domains - the Domains of First Choice for Developers </H2>
+
 <a href=http//www.domanregistry.de><IMG SRC=http://www.domainregistry.de/dev-domains.png></a>
 
  The Dev-Domains are open domains: anyone can register Dev-Domains. The Dev-Domain is meant for developers, but of course it also stands for any kind of "developments".
